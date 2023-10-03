@@ -56,9 +56,6 @@ webbrowser.register('msedge', None, webbrowser.BackgroundBrowser(edge_path))
 webbrowser.get('msedge').open(url)
 time.sleep(5)
 
-pyautogui.hotkey("ctrl","shift","I")
-time.sleep(4)
-
 # Loop through the queries
 for query in queries:
     try:
