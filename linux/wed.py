@@ -77,8 +77,8 @@ for query in queries:
 
 # End of script
 
-time.sleep(5
-           )
+time.sleep(5)
+
 # List of search queries for mobile searches
 queries1 = [
             "traveling on a student budjet",
