@@ -81,27 +81,27 @@ time.sleep(5)
 
 # List of search queries
 queries1 = [
-    "populartiy of faecbook"
-    "prime minster of canad"
-    "nashnal animal of astralia"
-    "biggest city in inda"
-    "officail langage of germay"
-    "currncy of jamaika"
-    "curent monrch of swden"
-    "famous explorer from portugall"
-    "nashional sport of brazill"
-    "tallest bilding in the wrld"
-    "presdent of south africa"
-    "independnce day of frnace"
-    "capitol of thailnd"
-    "largst river in canad"
-    "currnt king of norwya"
-    "nashnal emblm of spain"
-    "offical religon of iran"
-    "famouz painting by Italin artist"
-    "highest moutain in afrika"
-    "founding fther of the Unted States"
-    "Nobell laurate from Inda"
+    "populartiy of faecbook",
+    "prime minster of canad",
+    "nashnal animal of astralia",
+    "biggest city in inda",
+    "officail langage of germay",
+    "currncy of jamaika",
+    "curent monrch of swden",
+    "famous explorer from portugall",
+    "nashional sport of brazill",
+    "tallest bilding in the wrld",
+    "presdent of south africa",
+    "independnce day of frnace",
+    "capitol of thailnd",
+    "largst river in canad",
+    "currnt king of norwya",
+    "nashnal emblm of spain",
+    "offical religon of iran",
+    "famouz painting by Italin artist",
+    "highest moutain in afrika",
+    "founding fther of the Unted States",
+    "Nobell laurate from Inda",
     "nashional dish of mexio"
 ]
 
