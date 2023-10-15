@@ -77,7 +77,7 @@ for query in queries:
 
 # End of script
 
-time,sleep(5)
+time.sleep(5)
 
 # List of search queries
 queries1 = [
